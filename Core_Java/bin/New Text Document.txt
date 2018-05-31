@@ -1,0 +1,1 @@
+D:\1_My_Practice\6_Cmd_Core_Java>java -classpath .

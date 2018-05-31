@@ -1,0 +1,3 @@
+1 Akshaya 1000 0.7
+5 Ajit	  2000	2
+3 Abinash 3000	0.8
